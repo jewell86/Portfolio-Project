@@ -7,7 +7,7 @@
   position: relative
 }
 
-#button {
+.buttonz {
   bottom: 400px;
   left: 600px;
   text-align: center;
@@ -36,21 +36,50 @@
 
 #badges {
   position: relative;
-  left:125px;
+  left:200px;
 }
 
-#linkedin {
-  margin: 30px;
+.linkedin {
+  margin-left: 45px;
 }
 
 .github {
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
+  margin-right:40px;
+}
+
+.gmail {
+  margin-left: 90px;
 }
 
 #contact-font {
   font-size: 25px;
 }
+
+
+#portfolioStart {
+  margin-top: 250px;
+}
+
+#contact {
+  margin: 100px;
+}
+
+.puyallup {
+  padding-top: 100px;
+}
+
+.portfolio {
+  padding-bottom: 75px;
+}
+
+img.github:hover, img.linkedin:hover, img.gmail:hover {
+  height:120px;
+  width: 120px;
+}
+
+
 
 /*STARRY NIGHT  */
 
